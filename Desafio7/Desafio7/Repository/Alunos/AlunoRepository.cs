@@ -1,7 +1,6 @@
 ﻿using Dapper;
 using Desafio7.Models;
 using Desafio7.Repository.Alunos.Interfaces;
-using Desafio7.Repository.Context;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
